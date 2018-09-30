@@ -1,0 +1,6 @@
+g++ net.cpp -o net
+g++ data.cpp -o data
+
+./data>trainingData.txt
+./net>output.txt
+
